@@ -14,6 +14,6 @@
     "type": "git",
     "url": "https://github.com/vertexsystems/npm-test-test-test.git"
   },
-  "author": "Chedwick Montoril <chedwick@vertex.systems (http://vertex.systems)",
+  "author": "Chedwick Montoril <chedwick@vertex.systems> (http://vertex.systems)",
   "license": "MIT"
 }
