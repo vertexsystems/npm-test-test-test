@@ -1,0 +1,19 @@
+{
+  "name": "npm-test-test-test",
+  "version": "1.0.0",
+  "description": "Testing publishing an NPM module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Test",
+    "keywords"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vertexsystems/npm-test-test-test.git"
+  },
+  "author": "Chedwick Montoril <chedwick@vertex.systems (http://vertex.systems)",
+  "license": "MIT"
+}
